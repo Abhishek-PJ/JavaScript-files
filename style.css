@@ -1,0 +1,16 @@
+    .box{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  border: 2px solid black ;
+  border-radius: 10px;
+  border-spacing: 10px;
+  padding-right: 20px; 
+  
+}
+.maindiv{
+  border:2px solid black;
+  margin: auto;
+  height:600px;
+  width:600px;
+}
